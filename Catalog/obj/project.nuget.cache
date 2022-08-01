@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3O/VN8pKYres4vmU4K2Iqa6zzyizxnSf5xRKVd+pvU60UN3ywi67bOwlwSP8F5LV4iRLt5aQYlOlfDLyghAzQ==",
+  "success": true,
+  "projectFilePath": "/Users/syar/src/DotNet-Microservices/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/syar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/syar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/syar/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/syar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/syar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/syar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
