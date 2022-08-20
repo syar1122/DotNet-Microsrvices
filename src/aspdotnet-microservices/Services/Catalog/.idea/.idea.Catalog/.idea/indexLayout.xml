@@ -3,6 +3,7 @@
   <component name="UserContentModel">
     <attachedFolders>
       <Path>../../DotNet-Microservices</Path>
+      <Path>../../src</Path>
     </attachedFolders>
     <explicitIncludes />
     <explicitExcludes />

@@ -208,19 +208,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/syar/.nuget/packages/": {}
+    "/Users/Syar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/syar/src/DotNet-Microservices/Catalog/Catalog.csproj",
+      "projectUniqueName": "/Users/Syar/Codes/DotNet-Microsrvices/src/Catalog/Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "/Users/syar/src/DotNet-Microservices/Catalog/Catalog.csproj",
-      "packagesPath": "/Users/syar/.nuget/packages/",
-      "outputPath": "/Users/syar/src/DotNet-Microservices/Catalog/obj/",
+      "projectPath": "/Users/Syar/Codes/DotNet-Microsrvices/src/Catalog/Catalog.csproj",
+      "packagesPath": "/Users/Syar/.nuget/packages/",
+      "outputPath": "/Users/Syar/Codes/DotNet-Microsrvices/src/Catalog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/syar/.nuget/NuGet/NuGet.Config"
+        "/Users/Syar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -255,7 +255,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -267,7 +268,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
